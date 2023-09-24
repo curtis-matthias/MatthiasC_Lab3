@@ -1,0 +1,6 @@
+﻿  MatthiasC_Lab3.cpp
+C:\Users\cmatt\source\repos\MatthiasC_Lab3\MatthiasC_Lab3\MatthiasC_Lab3.cpp(51,11): warning C4552: '+': result of expression not used
+C:\Users\cmatt\source\repos\MatthiasC_Lab3\MatthiasC_Lab3\MatthiasC_Lab3.cpp(58,11): warning C4552: '-': result of expression not used
+C:\Users\cmatt\source\repos\MatthiasC_Lab3\MatthiasC_Lab3\MatthiasC_Lab3.cpp(65,11): warning C4552: '*': result of expression not used
+C:\Users\cmatt\source\repos\MatthiasC_Lab3\MatthiasC_Lab3\MatthiasC_Lab3.cpp(72,11): warning C4552: '/': result of expression not used
+  MatthiasC_Lab3.vcxproj -> C:\Users\cmatt\source\repos\MatthiasC_Lab3\x64\Debug\MatthiasC_Lab3.exe
